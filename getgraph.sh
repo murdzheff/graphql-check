@@ -6,7 +6,6 @@ if [ -z "$COOKIE" ]; then
 fi
 
 url="https://ledger-digitalid.oncustomer.com/internal/graphql/"
-#cookie="JSESSIONID=EB64B91AE1480BFBD884592F3D40FE52"
 
 # GraphQL query as JSON
 data='{
